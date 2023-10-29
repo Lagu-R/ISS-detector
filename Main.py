@@ -9,7 +9,7 @@ ISS satelite detector
  import time
  
  MY_EMAIL = "lagutest133@gmail.com"
- MY_PASSWORD = "jrrskssjpeptwdtr"
+ MY_PASSWORD = "email.password"
  MY_LAT = 41.693630 # latitude
  MY_LONG = 44.801620 # longitude
  
